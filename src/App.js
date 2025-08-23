@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1> Parent Component Akshada</h1>
+      <h1> Parent Harshal Akshada</h1>
       <p>Count: {count}</p>
       <button onClick={() => setOtherState(!otherState)}>
         Toggle Other State
